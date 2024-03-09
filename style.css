@@ -67,6 +67,7 @@ a {
 .hero {
     background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
     position: relative;
+    margin-top: 4rem;
 }
 
 .hero__title {
