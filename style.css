@@ -70,6 +70,7 @@ a {
     color: var(--black-color);
     font-size: 4rem;
     padding: 2rem 0;
+    margin-top:30rem;
     text-align: center;
     position: relative;
     z-index: 10;
@@ -84,7 +85,6 @@ a {
     bottom: 0;
     margin-left: 3.5rem;
     object-fit: cover;
-    margin-top:20rem;
 }
 
 /* Section Howiam---------------------------------------------*/
