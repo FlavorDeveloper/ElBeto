@@ -63,6 +63,7 @@ a {
 .hero {
     background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
     position: relative;
+    margin-top: 12rem;
 }
 
 .hero__title {
@@ -70,7 +71,6 @@ a {
     color: var(--black-color);
     font-size: 4rem;
     padding: 2rem 0;
-    margin-top: 14rem;
     text-align: center;
     position: relative;
     z-index: 10;
