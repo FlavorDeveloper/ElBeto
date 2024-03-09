@@ -63,14 +63,14 @@ a {
 .hero {
     background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
     position: relative;
-    margin-top: 12rem;
 }
 
 .hero__title {
     font-family: "Bungee Shade", sans-serif;
     color: var(--black-color);
     font-size: 4rem;
-    padding: 2rem 0;
+    padding: 2rem 0 0.1px;
+    margin-top: 10rem;
     text-align: center;
     position: relative;
     z-index: 10;
