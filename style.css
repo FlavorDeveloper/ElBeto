@@ -31,10 +31,6 @@ body {
     font-family: "Poppins", sans-serif;
 }
 
-body {
-    margin-bottom:40rem;
-}
-
 /* Global Styling---------------------------------------------*/
 
 h1 { font-size: 4rem; }
@@ -88,6 +84,7 @@ a {
     bottom: 0;
     margin-left: 3.5rem;
     object-fit: cover;
+    margin-top:20rem;
 }
 
 /* Section Howiam---------------------------------------------*/
